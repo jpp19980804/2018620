@@ -1,0 +1,44 @@
+/*1
+
+A=3
+B=11
+if A<=B:
+    print("B比較大")
+else:
+    print("A比較大")
+
+/*2
+
+numbers = [2,3,4,5,6,7,8]
+for x in numbers:
+    print(x)
+    if x == 5:
+        print("正確")
+        break;
+        
+        
+/*3
+
+d=input('請問5-2=?')
+if int(d)>3:
+    print("答錯")
+if int(d)<3:
+    print("答錯")
+else:
+    print("答對")
+    
+    
+    
+/*4
+
+score=int(input('請輸入BMI指數'))
+if score>=27:
+    print('肥胖')
+elif score>=24 <27:
+    print('過重')
+elif score>=18.5 <24:
+    print('正常體重')
+else:
+    print('過輕')
+    
+    
