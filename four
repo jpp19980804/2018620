@@ -1,0 +1,20 @@
+/*1
+
+import numpy as np
+import matplotlib.pyplot as pt
+x=[1,2,3,4]
+y=[2,3,7,2]
+pt.bar(x,y)
+pt.show()
+
+
+
+/*2
+
+import numpy as np
+import matplotlib.pyplot as pt
+x=np.arange(0,360)
+y=np.sin(x*np.pi/180.0)
+pt.plot(x,y)
+pt.title("sin function")
+pt.show()
